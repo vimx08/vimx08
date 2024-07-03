@@ -1,4 +1,5 @@
-#Like in any other langauge python also has a set of datatypes
+
+# Like in any other langauge python also has a set of datatypes
 # Datatypes are the category of a data in programming language
 
 # Python datat types

@@ -3,7 +3,6 @@
 # Input = “a”
 # Output = “ll occurrences of  specified chrcter in  given string”
 
-"""
 data = "All the occurrences of a specified character in a given string"
 result = ""
 char = input("Enter a character ")

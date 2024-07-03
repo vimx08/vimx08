@@ -18,7 +18,7 @@
 #     print("Not Palindrome")
 
 
-number = 123
+number = 121 # interview question
 n = number
 rev = 0
 while number != 0:
@@ -30,8 +30,21 @@ if n == rev:
     print("Palindrome")
 else:
     print("Not Palindrome")
-# n = number 
-# rev = 0
+
+
+count = 123
+n = count
+rev = 0
+while count:
+    remain = count % 10
+    rev = rev * 10 + remain
+    count = count // 10
+if n == rev:
+    print("its palindrome")
+else:
+    print("its not palindrome")      
+
+
 
 # def is_palindrome(n):
 #     return str(n) == str(n)[::-1]
@@ -42,5 +55,6 @@ else:
 #     return num
 
 # number = 121
-# palindrome = nearest_palindrome(number)
-# print
+# palindrom = nearest_palindrome(number)
+# print(palindrom)
+e

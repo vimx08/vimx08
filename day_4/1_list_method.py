@@ -86,3 +86,4 @@ print(a)  # [13, 0, 1, 11, 12, 10]
 # insert()
 a = [3, 2, 4, 1, 5]
 a.insert(3, "hello")
+print(a)  # [3, 2, 4, 'hello', 1, 5]

@@ -1,4 +1,4 @@
-#Numbers are immutable datatype in python
+# Numbers are immutable datatype in python
 # There are three types of numbers
 # Integer
 # Float

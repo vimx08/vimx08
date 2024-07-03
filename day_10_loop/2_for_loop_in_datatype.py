@@ -23,25 +23,16 @@ print(result)  # [{"name": "Alex", "age": 10, "address": "KTM"}, {"name": "Jane"
 
 # In dictionary
 student = {"name": "Alex", "age": 25, "address": "KTM"}
-
 for each in student:
     print(each)  # name   age   address
-
-
 keys = student.keys()
 for key in keys:
     print(key)  # name  age   address
-
-
 values = student.values()
 for value in values:
     print(value)  # Alex   25   KTM
-
-
 for item in student.items():  # dict_items([("name", "Alex"), (age, 25), (address, KTM)])
     print(item)  # ("name", "Alex")   (age, 25)   (address, KTM)
-
-
 for key, value in student.items():
     print(key)  # name age  address
     print(value)  # Alex  25  KTM

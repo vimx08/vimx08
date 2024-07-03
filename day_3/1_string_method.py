@@ -63,3 +63,9 @@ print(result2)  # 6
 
 r = a.find("z")
 print(r)  # -1 if the character or substring not present in the main string
+
+
+
+
+
+

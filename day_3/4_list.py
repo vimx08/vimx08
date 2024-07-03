@@ -1,3 +1,4 @@
+
 # List is a mutable datatype in Python
 # List is a sequence of heterogenous data separated by comma and enclosed within big brackets
 
